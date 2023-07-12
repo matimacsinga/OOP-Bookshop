@@ -1,0 +1,5 @@
+The Alchemist,Paulo Coelho,Little Brown,hardback,50,208,1988
+Shantaram,Gregory David Roberts,Little Brown,paperback,70,974,2003
+The Girl with All the Gifts,Mike Carey,Orbit Books,paperback,45,460,2014
+Computer Science Distilled,Wladston Ferreira Filho,Code Energy LLC,hardback,106,180,2017
+Monte Cassino,Sven Hassel,Nemira,paperback,25,400,1963
